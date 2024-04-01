@@ -86,7 +86,6 @@ gap: 40px;
 }
 
 .header-menu-item {
-  padding: 24px 0;
   display: block;
 }
 
@@ -96,6 +95,7 @@ gap: 40px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px 0;
 }
 
 .header-menu-link:hover,
@@ -311,7 +311,7 @@ padding-bottom: 32px;
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-  margin-bottom: 8px;
+  margin-bottom: 72px;
 }
 
 .portfolio-list {
@@ -319,11 +319,10 @@ padding-bottom: 32px;
   column-gap: 24px;
   flex-wrap: wrap;
   row-gap: 48px;
-  width: calc((100% - 48px) / 3);
 }
 
 .portfolio-list-item {
-
+  width: calc((100% - 48px) / 3);
 }
 
 .portfolio-images {
