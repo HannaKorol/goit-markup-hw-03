@@ -351,11 +351,11 @@ padding-bottom: 32px;
 /* ---------------------END--------------------------------- */
 .end {
   background-color:#2e2f42;
+  padding: 100px 0;
 }
 
 .footer-background {
 color:#2e2f42;
-padding: 100px 0;
 }
 
 .end-logo {
@@ -372,7 +372,6 @@ padding: 100px 0;
 
 .accent-end {
 color: #f4f4fd;
-padding-top: 100px;
 }
 
 .end-title {
